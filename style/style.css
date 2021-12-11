@@ -40,13 +40,20 @@ section::after {
     
 .formContainer {
     background-color: #ffffffbb;
-    max-width: 230px;
+    max-width: 280px;
     padding: 20px;
     float: right;
 }
 
 h2 {
-    font-size: 16px;
+    font-size: 18px;
+    text-align: auto;
+}
+
+.formContainer p {
+    word-spacing: 0;
+    font-size: 17px;
+    text-align: justify;
 }
 
 .margin_bottom {
@@ -151,7 +158,6 @@ footer {
     
     .description {
         padding: 20px;
-        background-color: #6e737444;
         color: #ffffff;
         display: inline-block;
         max-width: 300px;
@@ -220,7 +226,6 @@ footer {
     
     .description {
         padding: 20px;
-        background-color: #6e737444;
         color: #ffffff;
         display: inline-block;
         max-width: 300px;
@@ -261,7 +266,6 @@ footer {
     
     .description {
         padding: 20px;
-        background-color: #6e737444;
         color: #ffffff;
         display: inline-block;
         max-width: 300px;
