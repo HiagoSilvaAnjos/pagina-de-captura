@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -41,6 +42,7 @@ section::after {
 .formContainer {
     background-color: #ffffffbb;
     max-width: 280px;
+    height: 480px;
     padding: 20px;
     float: right;
 }
@@ -64,7 +66,6 @@ input, select {
     background-color: #ffffff;
     border-radius: 5px;
     width: 100%;
-    box-sizing: border-box;
     padding: 10px;
     border: none;
     margin-bottom: 10px;
@@ -74,6 +75,15 @@ input[type="submit"] {
     color: #ffffff;
     background-color: #48c5ce;
     font-weight: bold;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    border: 2px solid #000000;
+}
+
+input[type="submit"]:active {
+    background-color: red;
 }
 
 select {
@@ -129,6 +139,7 @@ footer {
     .formContainer {
         background-color: #ffffff69;
         max-width: 100%;
+        height: 390px;
         padding: 20px;
         float: right;
         box-sizing: border-box;
@@ -143,6 +154,14 @@ footer {
         font-size: 16px;
     }
     
+    input[type="submit"] {
+        float: right;
+        width: 50%;
+        color: #ffffff;
+        background-color: #48c5ce;
+        font-weight: bold;
+        cursor: pointer;
+    }
 
     footer {
         background-color: #202121;
@@ -197,6 +216,7 @@ footer {
     .formContainer {
         background-color: #ffffff69;
         max-width: 100%;
+        height: 420px;
         padding: 20px;
         float: right;
         box-sizing: border-box;
@@ -252,6 +272,10 @@ footer {
 }
 
 @media screen and (max-width: 360px) {
+    .formContainer {
+        height: 440px;
+    }
+   
     footer {
         background-color: #202121;
         padding: 10px;
@@ -289,4 +313,14 @@ footer {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     }
+}
+
+@media screen and (max-width: 330px) {
+
+    .description h3 {
+        font-size: 20px;
+        margin-left: 30px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    } 
 }
