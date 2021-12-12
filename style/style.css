@@ -73,6 +73,7 @@ input, select {
 }
 
 input[type="submit"] {
+    border-radius: 5px;
     color: #ffffff;
     background-color: #48c5ce;
     font-weight: bold;
@@ -82,14 +83,11 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
     border: 2px solid #000000;
-    border-radius: 5px;
-    box-sizing: border-box;
 }
 
 input[type="submit"]:active {
     background-color: red;
     border-radius: 5px;
-    box-sizing: border-box;
 }
 
 select {
@@ -160,6 +158,16 @@ footer {
         font-size: 16px;
     }
     
+    input, select {
+        background-color: #ffffff;
+        border-radius: 2px;
+        width: 100%;
+        padding: 10px;
+        border: none;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+    }
+
     input[type="submit"] {
         float: right;
         width: 50%;
