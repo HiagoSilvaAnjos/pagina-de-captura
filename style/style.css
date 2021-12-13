@@ -10,12 +10,12 @@ body {
 }
 
 .container {
-    
-    margin: auto;
+    margin: 20px auto;
     max-width: 1000px;
 }
 
 header {
+    border-radius: 1px 1px 0 0;
     background-color: #48c5ce;
     text-align: center;
     color: #ffffff;
@@ -99,6 +99,10 @@ select {
     background-position: calc(100% - 10px) center;
 }
 
+img {
+    box-shadow: 1px 1px 10px 10px rgba(0, 0, 0, 0.438);
+}
+
 footer {
     background-color: #202121;
     padding: 40px;
@@ -141,7 +145,7 @@ footer {
     }
 
     .formContainer {
-        background-color: #ffffff69;
+        background-color: #ffffff7a;
         max-width: 100%;
         height: 390px;
         padding: 20px;
@@ -228,7 +232,7 @@ footer {
     }
 
     .formContainer {
-        background-color: #ffffff69;
+        background-color: #ffffff7a;
         max-width: 100%;
         height: 420px;
         padding: 20px;
@@ -288,6 +292,7 @@ footer {
 @media screen and (max-width: 360px) {
     .formContainer {
         height: 440px;
+        background-color: #ffffff7a;
     }
    
     footer {
@@ -330,6 +335,10 @@ footer {
 }
 
 @media screen and (max-width: 330px) {
+
+    .formContainer {
+        background-color: #ffffff7a;
+    }
 
     .description h3 {
         font-size: 20px;
