@@ -47,11 +47,12 @@ Veja este projeto <a href="https://hiagosilvaanjos.github.io/pagina-de-captura/"
 <br>
 
 <h1 id="site">Site🌐</h1>
-- [x] Conteudo
-- [x] Imagens
-- [x] Responsividade 
-- [x] Estilo diferente em telas menores
+-[x] Conteudo
+-[x] Imagens
+-[x] Responsividade 
+-[x] Estilo diferente em telas menores
 
+<br>
 <br>
 
 ![gif_responsividade](https://user-images.githubusercontent.com/91165415/146456833-9ef344ad-8cb9-41c5-8685-0595924c8071.gif)
