@@ -16,9 +16,5 @@ Esse projeto...
 
 <br>
 
- <!-- Projeto Página de captura, este projeto simulará uma possivel palestra. Feito com HTML5, CSS3 e o Mailchimp  -->
-![gif_conteudo](https://user-images.githubusercontent.com/91165415/146273170-ba074f2f-3324-4b39-bb1d-b69538281a58.gif)
-
-<br>
-
-![gif_responsividade](https://user-images.githubusercontent.com/91165415/146273181-ba3a2b06-5f7e-4cf5-ac07-d6ffa23d6458.gif)
+![Captura de Tela (10)](https://user-images.githubusercontent.com/91165415/146291110-e628fdc6-e66e-4f08-a644-56c7fcd09b41.png)
+![Captura de Tela (12)](https://user-images.githubusercontent.com/91165415/146291116-57edb39c-073b-4ff9-8824-5b36188ed8f9.png)
