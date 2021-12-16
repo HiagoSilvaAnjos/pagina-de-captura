@@ -47,10 +47,9 @@ Veja este projeto <a href="https://hiagosilvaanjos.github.io/pagina-de-captura/"
 <br>
 
 <h1 id="site">Site🌐</h1>
--[x] Conteudo
--[x] Imagens
--[x] Responsividade 
--[x] Estilo diferente em telas menores
+- [x] Lorem ipsum dolor sit amet
+- [ ] Lorem consectetur adipisicing elit
+- [ ] Lorem ut labore et dfolore
 
 <br>
 <br>
