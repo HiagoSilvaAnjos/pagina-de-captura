@@ -22,7 +22,3 @@ Esse projeto...
 <br>
 
 ![gif_responsividade](https://user-images.githubusercontent.com/91165415/146273181-ba3a2b06-5f7e-4cf5-ac07-d6ffa23d6458.gif)
-
-
-https://user-images.githubusercontent.com/91165415/146288612-76a586fb-ba57-48fd-a237-9ec99b959d13.mp4
-
